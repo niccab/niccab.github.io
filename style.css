@@ -1,0 +1,25 @@
+body {
+    background: white url(https://mir-s3-cdn-cf.behance.net/project_modules/disp/14caca7486475.560ac383c0ee8.jpg)  top right 
+	;
+	
+	
+}
+
+p {
+    color: white;
+	font-family: Helvetica;
+}
+
+h1 {
+	font-variant: small-caps;
+	font-size: 45px;
+	color: purple;
+	font-family: Arial Black;
+	font-style:italic;
+}
+
+li {
+    color: black;
+	font-family: Helvetica;
+	
+}
